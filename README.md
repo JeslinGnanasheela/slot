@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +29,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SANJAI T (22009315)</b></caption>
+<caption><b>SLOT TIME TABLE - JESLIN GNANASHEELA M (22008253)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -115,7 +115,7 @@ Execute the program
 </table>
 </body>
 </html>
-'''
+```
 
 # OUPUT
 ![OUTPUT](./timetable1.png)
